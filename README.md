@@ -6,7 +6,7 @@ The purpose of this analysis is to analyze if there is a business opportunity fo
 
 ## Results
 
-Interactive versions of all of the following graphics can be found at [this link](https://public.tableau.com/profile/pimchanya.chitsanga#!/vizhome/NYCCityBikeAnalysisChallenge/CheckoutTimeAnalysis).  ------ CHANGE LINK IN ()
+Interactive versions of all of the following graphics can be found at [this link](https://public.tableau.com/profile/pimchanya.chitsanga#!/vizhome/NYCCityBikeAnalysisChallenge/CheckoutTimeAnalysis).
 
 ### Customer Type Analysis
 
