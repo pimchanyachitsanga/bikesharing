@@ -12,27 +12,27 @@ Interactive versions of all of the following graphics can be found at [this link
 
 Citibike riders can be categorized by customers or subscribers, and by their gender. The breakdown of riders by customer type and by gender are shown below. The majority of Citibike riders are subscribers and the majority of Citibike riders are male.
 
-![Customers Breakdown](Customers Breakdown.png)
+![Customers Breakdown.png](Customers Breakdown.png)
 
 ### Trip Length
 
 In the below image, we have analyzed bike-share usage. The number of bikes & trip duration increases up to about the 5th hour then from the 6th hour onward, the number of bikes used decreased steadily. When trip length is broken down by gender, female rider and male rider's curves formed similar shape. The curve in male riders is more steep, confirming our earlier findings that male is the majority of the riders. For unknown gender, the number of rides seem to be roughly the same for every trip length.
 
-![](Checkout Time.png)
+![Checkout Time.png](Checkout Time.png)
 
 ### Trips by Weekday 
 
 The following heat map shows the most popular times for Citibike users broken down by day of the week and by hour. The most popular time to use a Citibike is weekdays during work commute times, approximately 6am-9am and 4pm-7pm. As for the weekend, anytime between 9am to 7pm are all popular. There is very little usage between 1am to 4am which would be an ideal time for repairs. 
 
-![](Trip by Weekday.png)
+![Trip by Weekday.png](Trip by Weekday.png)
 
 When categorized by gender,CitiBike riding patterns between genders are relatively similar, however, we see more usage for male rather than female. 
 
-![](Trips by Gender.png)
+![Trips by Gender.png](Trips by Gender.png)
 
 When broken down by user type, one-time customers are more likely to be weekend riders than weekday commuters. Subscribers are the main uses of CitiBike and they are mainly weekday commuters. The usage patterns are consistent between malesand female riders. Users who did not report genders tend to be a weekend riders.
 
-![](Trips by Gender by Weekday.png)
+![Trips by Gender by Weekday.png](Trips by Gender by Weekday.png)
 
 ## Summary
 
