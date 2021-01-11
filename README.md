@@ -12,11 +12,7 @@ Interactive versions of all of the following graphics can be found at [this link
 
 Citibike riders can be categorized by customers or subscribers, and by their gender. The breakdown of riders by customer type and by gender are shown below. The majority of Citibike riders are subscribers and the majority of Citibike riders are male.
 
-![Customer Breakdown.png](Customer Breakdown.png)
-
 ![Customer Breakdown.png](https://github.com/pimchanyachitsanga/bikesharing/blob/main/Customer%20Breakdown.png)
-
-https://github.com/pimchanyachitsanga/bikesharing/blob/main/Customer%20Breakdown.png
 
 ### Trip Length
 
