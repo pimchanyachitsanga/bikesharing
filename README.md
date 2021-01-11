@@ -14,6 +14,10 @@ Citibike riders can be categorized by customers or subscribers, and by their gen
 
 ![Customer Breakdown.png](Customer Breakdown.png)
 
+![Customer Breakdown.png](https://github.com/pimchanyachitsanga/bikesharing/blob/main/Customer%20Breakdown.png)
+
+https://github.com/pimchanyachitsanga/bikesharing/blob/main/Customer%20Breakdown.png
+
 ### Trip Length
 
 In the below image, we have analyzed bike-share usage. The number of bikes & trip duration increases up to about the 5th hour then from the 6th hour onward, the number of bikes used decreased steadily. When trip length is broken down by gender, female rider and male rider's curves formed similar shape. The curve in male riders is more steep, confirming our earlier findings that male is the majority of the riders. For unknown gender, the number of rides seem to be roughly the same for every trip length.
